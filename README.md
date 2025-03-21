@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: NARESH.RK</h3>
+<h3>Name: NARESH.R</h3>
 <h3>Register Number: 212223240104</h3>
 
 
